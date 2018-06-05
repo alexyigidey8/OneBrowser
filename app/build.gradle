@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 27
-    buildToolsVersion "27.0.3"
 
     lintOptions {
         abortOnError false
@@ -12,8 +11,8 @@ android {
         applicationId "com.creativetrends.simplicity.app"
         minSdkVersion 21
         targetSdkVersion 27
-        versionCode 401
-        versionName "4.0.1"
+        versionCode 100
+        versionName "1.0.0"
     }
 
     buildTypes {
