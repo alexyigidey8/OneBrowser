@@ -22,7 +22,7 @@
         android:paddingStart="4dp"
         android:paddingTop="4dp">
 
-        <com.creativetrends.app.simplicity.preferences.PreferenceImageView
+        <com.redcircleapps.onebrowser.android.preferences.PreferenceImageView
             android:id="@+id/icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

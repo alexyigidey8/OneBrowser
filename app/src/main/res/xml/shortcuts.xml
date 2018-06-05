@@ -15,8 +15,8 @@
         <intent
             android:action="android.intent.action.VIEW"
             android:data="new_incognito_tab"
-            android:targetPackage="com.creativetrends.simplicity.app"
-            android:targetClass="com.creativetrends.app.simplicity.activities.MainActivity" />
+            android:targetPackage="com.redcircleapps.simplicity.app"
+            android:targetClass="com.redcircleapps.onebrowser.android.activities.MainActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 
